@@ -1,0 +1,20 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "node http module example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" ,
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihal002/node-http.git"
+  },
+  "author": "nihal shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nihal002/node-http/issues"
+  },
+  "homepage": "https://github.com/nihal002/node-http#readme"
+}
